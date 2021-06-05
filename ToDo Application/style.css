@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+.main {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.add {
+    background-color: rgb(47, 121, 13);
+    color: white;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 19pt;
+}
+
+.delete {
+    background-color: red;
+    color: rgb(3, 0, 0);
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 17pt;
+}
+
+.ulList {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.inputfield {
+    height: 40px;
+    /* border-top: none;
+    border-left: none;
+    border-right: none; */
+    width: 300px;
+    font-style: normal;
+}
